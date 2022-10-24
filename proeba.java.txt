@@ -1,5 +1,5 @@
 public class prueba{
 	public static void main(String[] args){
-		Systema.out.println("Hola Word");
+		System.out.println("Hola Mundo");
 	}
 }
